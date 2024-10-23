@@ -1,0 +1,6 @@
+{
+  "name": "com.generic.eventbus",
+  "version": "1.0.0",
+  "displayName": "EventBus",
+  "description": "EventBus is a messaging system used to facilitate loosely coupled\n communication between game objects. It helps prevent objects\n from being directly dependent on each other and allows for a \ncleaner code structure. The EventBus notifies objects\n that are subscribed to a specific event when that event is\n triggered (published). This way, it acts as a central hub for \nmanaging events."
+}
