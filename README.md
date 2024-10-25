@@ -1,2 +1,2 @@
-# EventBus
-EventBus is a messaging system used to facilitate loosely coupled communication between game objects.
+EventBus is a messaging system used to facilitate loosely coupled communication between game objects. It helps prevent objects
+ from being directly dependent on each other and allows for a cleaner code structure. The EventBus notifies objects that are subscribed to a specific event when that event is triggered (published). This way, it acts as a central hub for managing events.
